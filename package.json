@@ -1,0 +1,19 @@
+{
+  "name": "video-maker2",
+  "version": "1.0.0",
+  "description": "Projeto open source para criação de videos automaticos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilanio/Video-Maker2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilanio/Video-Maker2/issues"
+  },
+  "homepage": "https://github.com/vilanio/Video-Maker2#readme"
+}
