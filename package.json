@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vilanio/Video-Maker2/issues"
   },
-  "homepage": "https://github.com/vilanio/Video-Maker2#readme"
+  "homepage": "https://github.com/vilanio/Video-Maker2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
